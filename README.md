@@ -1,15 +1,17 @@
-🏫 UniQuery
+### 🏫 UniQuery
 
 A full-stack platform designed to simplify college-related queries by offering a centralized system with Student Portal, Faculty/Admin Panel, and Backend APIs.
 
+<br/>
 
-🚀 Overview
+### 🚀 Overview
 
 UniQuery is a platform built to help students and institutions manage academic queries efficiently.
 It allows students to submit queries, track their status, and receive responses — while admins can manage, respond, and organize student concerns in a structured way.
 
+<br/>
 
-✨ Features
+### ✨ Features
 
 * Student Portal (Submit and track queries)
 * Admin Panel (Manage and respond to queries)
@@ -18,9 +20,11 @@ It allows students to submit queries, track their status, and receive responses 
 * Organized dashboard & clean UI
 * REST API-based architecture
 
+<br/>
 
-🛠 Tech Stack
-Frontend
+### 🛠 Tech Stack
+
+### Frontend
 
 * React.js
 * HTML5
@@ -29,32 +33,37 @@ Frontend
 * Axios (API communication)
 * Responsive UI Design
 
+<br/>
 
-Backend
+### Backend
 
 * Node.js
 * Express.js (REST API Framework)
 
+<br/>
 
-Database
+### Database
 
 * MongoDB (NoSQL database)
 
+<br/>
 
-Authentication & Security
+### Authentication & Security
 
 * JSON Web Tokens (JWT)
 * Bcrypt for password hashing
 
+<br/>
 
-Tools & DevOps
+### Tools & DevOps
 
 * Git & GitHub (Version Control)
 * Thunder Client (API Testing)
 * Vercel (Deployment Platform)
+<br/>
 
-
-🔧 Setup & Installation
+### 🔧 Setup & Installation
+<br/>
 
 Follow the steps below to run the project locally:
 
@@ -62,25 +71,27 @@ Follow the steps below to run the project locally:
 
 git clone https://github.com/sakshis1904/UniQuery.git
 cd UniQuery
+<br/>
 
 2. Install Dependencies
 
 You need to install dependencies for both frontend and backend.
 
-* Backend
+### * Backend
 
 cd backend
 npm install
 
-* Frontend
+### * Frontend
 
 cd ../frontend
 npm install
 
-* Admin Panel (if separate)
+### * Admin Panel (if separate)
 
 cd ../admin
 npm install
+<br/>
 
 3. Create Environment Variables
 
@@ -92,36 +103,38 @@ PORT=5000
 
 4. Start the Application
    
-* Start Backend
+### * Start Backend
   
 cd backend
 npm start
 
-* Start Frontend
+### * Start Frontend
   
 cd frontend
 npm start
 
-* Start Admin Panel (optional)
+### * Start Admin Panel (optional)
   
 cd admin
 npm start
 
+<br/>
 
-📸 Screenshots
+### 📸 Screenshots
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e3bcbca9-4f77-4659-99e7-e123d29a091b" />
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/299894d3-5ade-46cf-b28d-162fc22dc5c4" />
+<br/>
 
-
-🤝 Contribution
+### 🤝 Contribution
 
 Pull requests are welcome!
 If you’d like to contribute, feel free to open a discussion or issue.
+<br/>
 
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 Sakshi Shrivastava
 Full Stack Developer | React | Node.js
