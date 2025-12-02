@@ -137,7 +137,7 @@ If you’d like to contribute, feel free to open a discussion or issue.
 
 ### 👩‍💻 Author
 
-Sakshi Shrivastava
-Full Stack Developer | React | Node.js
-🔗 GitHub: https://github.com/sakshis1904
+Sakshi Shrivastava <br/>
+Full Stack Developer | React | Node.js <br/>
+🔗 GitHub: https://github.com/sakshis1904 <br/>
 🔗 LinkedIn: https://www.linkedin.com/in/sakshi-shrivastava19/
