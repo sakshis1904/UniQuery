@@ -69,7 +69,7 @@ Follow the steps below to run the project locally:
 
 ### 1️. Clone the Repository
 
-git clone https://github.com/sakshis1904/UniQuery.git
+git clone https://github.com/sakshis1904/UniQuery.git <br/>
 cd UniQuery
 <br/>
 
@@ -79,17 +79,17 @@ You need to install dependencies for both frontend and backend.
 
 * Backend
 
-cd backend
+cd backend <br/>
 npm install
 
 * Frontend
 
-cd ../frontend
+cd ../frontend<br/>
 npm install
 
 * Admin Panel (if separate)
 
-cd ../admin
+cd ../admin <br/>
 npm install
 <br/>
 
@@ -97,32 +97,32 @@ npm install
 
 Inside the backend folder create a .env file and add:
 
-MONGO_URI=your-mongodb-uri
-JWT_SECRET=your-secret-key
+MONGO_URI=your-mongodb-uri <br/>
+JWT_SECRET=your-secret-key <br/>
 PORT=5000
 
 ### 4. Start the Application
    
 * Start Backend
   
-cd backend
+cd backend <br/>
 npm start
 
 * Start Frontend
   
-cd frontend
+cd frontend <br/>
 npm start
 
 * Start Admin Panel (optional)
   
-cd admin
+cd admin <br/>
 npm start
 
 <br/>
 
 ### 📸 Screenshots
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e3bcbca9-4f77-4659-99e7-e123d29a091b" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/29250124-cfe6-4f36-a05b-69bc408ad94c" />
 
 <br/>
 
