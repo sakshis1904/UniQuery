@@ -67,33 +67,33 @@ It allows students to submit queries, track their status, and receive responses 
 
 Follow the steps below to run the project locally:
 
-1️. Clone the Repository
+### 1️. Clone the Repository
 
 git clone https://github.com/sakshis1904/UniQuery.git
 cd UniQuery
 <br/>
 
-2. Install Dependencies
+### 2. Install Dependencies
 
 You need to install dependencies for both frontend and backend.
 
-### * Backend
+* Backend
 
 cd backend
 npm install
 
-### * Frontend
+* Frontend
 
 cd ../frontend
 npm install
 
-### * Admin Panel (if separate)
+* Admin Panel (if separate)
 
 cd ../admin
 npm install
 <br/>
 
-3. Create Environment Variables
+### 3. Create Environment Variables
 
 Inside the backend folder create a .env file and add:
 
@@ -101,19 +101,19 @@ MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-secret-key
 PORT=5000
 
-4. Start the Application
+### 4. Start the Application
    
-### * Start Backend
+* Start Backend
   
 cd backend
 npm start
 
-### * Start Frontend
+* Start Frontend
   
 cd frontend
 npm start
 
-### * Start Admin Panel (optional)
+* Start Admin Panel (optional)
   
 cd admin
 npm start
@@ -129,8 +129,9 @@ npm start
 
 ### 🤝 Contribution
 
-Pull requests are welcome!
+Pull requests are welcome! <br/>
 If you’d like to contribute, feel free to open a discussion or issue.
+
 <br/>
 
 
