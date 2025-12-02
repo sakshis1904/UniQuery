@@ -124,7 +124,10 @@ npm start
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e3bcbca9-4f77-4659-99e7-e123d29a091b" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/299894d3-5ade-46cf-b28d-162fc22dc5c4" />
+<br/>
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d5286960-234c-443e-8c55-e869211dbe6d" />
+
 <br/>
 
 ### 🤝 Contribution
